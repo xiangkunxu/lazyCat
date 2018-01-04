@@ -4,7 +4,7 @@
 	> Mail:   im_tall@icloud.com 
 	> Created Time: Wed 03 Jan 2018 12:31:19 PM CST
  ************************************************************************/
-q
+
 #include<8051.h>
 #define out_led_1 P0_0
 #define out_led_2 P0_1
